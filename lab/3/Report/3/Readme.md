@@ -1,3 +1,7 @@
+# Lab 3 -  Part 3 - Report
+
+## MPU6050 component
+
 
 ![montage-mpu-6050](https://user-images.githubusercontent.com/48890122/69488622-25b38400-0e6c-11ea-9e0d-bc091c370f76.png)
 
